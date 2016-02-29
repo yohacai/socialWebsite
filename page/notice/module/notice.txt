@@ -1,0 +1,15 @@
+<div class='noticeInfo'>
+	<div class='noticeBody'>
+		<div class='reNoticeBu'>回复+</div>
+		<div class='noticeImg'><img src='source/img/hoster.jpg'></div>
+		<div class='noticeMain'>
+			<div class='noticeHead' id="nu1"><a href='#' class='ntUser'>yoha</a>
+			在 <span class='noticeToCont' id='ntContId1'>"萌妹纸~~~~~~~"</span>回复你</div>
+			<div class='noticeContent' >是啊，好萌好萌啊</div>
+			</div>
+                 </div>
+	<div class='noticeReply'>
+		<textarea class='ntReInput'></textarea>
+		button class='ntReBu'>回复</button>
+	</div>
+</div>

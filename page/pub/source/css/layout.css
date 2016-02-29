@@ -1,0 +1,441 @@
+#contMain
+{
+width:960px;
+margin-left:18px;
+position:relative;
+padding-bottom:10px;
+height:auto;
+min-height:450px;
+overflow:auto;
+display:inline-block;
+}
+.pubHead
+{
+  margin-left:40px;
+  position:relative;
+  width:auto;
+  display:inline-block;
+}
+.moodPub
+{
+  width:50px;
+  height:50px;
+  float:left;
+ cursor:pointer; 
+  margin-right:80px;
+  background:url(../img/pubicon.png);
+  background-position:-13px 0;
+  position:relative;
+}
+.musicPub
+{
+  width:50px;
+  height:50px;
+  float:left;
+ cursor:pointer; 
+  margin-right:80px;
+  background:url(../img/pubicon.png);
+  background-position:-65px 0; 
+  position:relative;
+}
+.videoPub
+{
+    width:50px;
+  height:50px;
+  float:left;
+ cursor:pointer; 
+  margin-right:80px;
+  background:url(../img/pubicon.png);
+  background-position:-111px 0;
+  position:relative;
+}
+.picPub
+{
+    width:50px;
+  height:50px;
+  float:left;
+ cursor:pointer; 
+  margin-right:80px;
+  background:url(../img/pubicon.png);
+  background-position:-165px 0;
+  position:relative;
+}
+.gamePub
+{
+    width:50px;
+  height:50px;
+  float:left;
+  cursor:pointer; 
+  margin-right:80px;
+  background:url(../img/pubicon.png);
+  background-position:-216px 0;
+  position:relative;
+}
+.pubText
+{
+  color:white;
+  width:40px;
+  font-size:15px;
+  position:absolute;
+  left:55px;
+  border:1px dashed #dddddd;
+  text-align:center;
+  display:none;
+}
+
+.pubBody
+{
+ position:relative;
+ margin-top:30px;
+}
+.pubDiv
+{
+   background:#7c3333333;
+     padding-top:10px;
+   background:rgba(22,22,22,0.5);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7c3333333,endColorstr=#7c3333333);
+}
+#pubMood
+{      
+       width:500px;
+       margin-left:60px;
+	   height:165px;
+	   display:none;
+}
+.moodArea
+{
+
+   overflow:auto;
+   width:400px;
+   height:60px;
+   background:none;
+   font-size:17px;
+   padding-left:5px;
+   padding-top:5px;
+   border:1px solid #dddddd;
+   color:#dddddd;
+   resize:none;
+}
+.pubBu
+{
+  width:60px;
+  height:30px;
+  background:#339966;
+  border:none;
+  cursor:pointer;
+  color:#dddddd;
+}
+#moodBu
+{
+ margin-top:10px;
+ margin-right:45px;
+ float:right;
+
+}
+.pubBodyHead
+{
+  margin-left:10px;
+  width:100%;
+  color:#dddddd;
+  clear:both;
+}
+.restWord
+{
+  color:#ddd;
+  font-size:15px;
+}
+#moodRest
+{
+  margin-left:43px;
+  float:left;
+}
+.moodFoot
+{
+width:100%;
+display:inline-block;
+}
+#pubVideo
+{
+width:600px;
+margin-left:320px;
+display:inline-block;
+height:210px;
+position:relative;
+display:none;
+}
+.videoIntro
+{
+ color:#dddddd;
+ font-size:14px;
+}
+.videoUrlDiv
+{
+width:450px;
+color:#dddddd;
+margin:10px 0 0 20px;
+}
+.videoUrl
+{
+width:300px;
+background:none;
+border:1px solid #dddddd;
+padding-left:3px;
+color:white;
+}
+.videoArea
+{
+   margin-top:0px;
+   overflow:auto;
+   width:293px;
+   height:70px;
+   margin-left:1px;
+   background:none;
+   font-size:17px;
+   padding-left:5px;
+   padding-top:5px;
+   border:1px solid #dddddd;
+   color:#dddddd;
+   resize:none;
+}
+.videoSay
+{
+  float:left;
+  color:#dddddd;
+  margin:25px 0 0 20px;
+}
+#videoBu
+{
+  width:50px;
+  height:25px;
+ margin-top:10px;
+ margin-right:229px;
+ float:right;
+}
+#videoRest
+{
+ margin-left:70px;
+}
+.urlBu
+{
+ width:40px;
+ height:20px;
+ background:#336699;
+ border:none;
+ margin-left:10px;
+ color:#dddddd;
+ cursor:pointer;
+}
+#videoMini
+{
+ width:200px;
+ height:130px;
+ position:absolute;
+ left:400px;
+ top:70px;
+}
+#videoMini img
+{
+ width:200px;
+ height:130px;
+ border:none;
+}
+.videoError
+{
+color:red;
+margin-left:70px;
+height:20px;
+}
+
+
+#pubMusic
+{
+ width:500px;
+ z-index:1;
+ min-height:220px;
+ margin-left:180px;
+ position:relative;
+ display:none;
+}
+#musicBu
+{
+ margin-top:10px;
+ margin-right:129px;
+ float:right;
+}
+#musicRest
+{
+  margin-left:70px;
+}
+.musicArea
+{
+   margin-top:20px;
+   overflow:auto;
+   width:293px;
+   height:70px;
+   margin-left:1px;
+   background:none;
+   font-size:17px;
+   padding-left:5px;
+   padding-top:5px;
+   border:1px solid #dddddd;
+   color:#dddddd;
+   resize:none;
+}
+.musicName
+{
+width:300px;
+background:none;
+border:1px solid #dddddd;
+padding-left:3px;
+color:white;
+}
+#displayMusic
+{
+   margin-left:20px;
+   height:100px;
+   width:400px;
+   display:none;
+   position:relative;
+   z-index:1000;
+   overflow:auto;
+}
+.DMimg img
+{
+float:left;
+width:80px;
+margin-left:10px;
+}
+.DMswf
+{
+float:left;
+margin-top:10px;
+margin-left:20px;
+}
+#musicList
+{
+  position:absolute;
+  width:292px;
+  min-height:220px;
+  z-index:10000;
+  left:248px;
+  padding-left:10px;
+  padding-bottom:10px;
+  top:65px;
+  background:#E6000000;
+  display:inline-block;
+  background:rgba(0,0,0,0.9);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#E6000000,endColorstr=#E6000000);
+  display:none;
+}
+.musicItem
+{
+width:272px;
+margin-bottom:5px;
+height:20px;
+line-height:20px;
+color:#dddddd;
+letter-spacing:3px;
+font-size:15px;
+cursor:pointer;
+padding-left:10px;
+overflow:hidden;
+}
+.MLclose
+{
+  height:20px;
+  line-height:20px;
+  font-size:18px;
+  text-align:right;
+  color:#ddd;
+  padding-right:5px;
+  cursor:pointer;
+}
+.MPspan
+{
+  color:#336699;
+  cursor:pointer;
+  float:right;
+  font-size:16px;
+  margin-right:10px;
+  display:inline-block;
+  display:none;
+}
+.allMusic
+{
+float:left;
+  color:#aaaaaa;
+    font-size:13px;
+	  margin-left:10px;
+	  display:inline-block;
+}
+.musicPage
+{
+width:272px;
+margin-top:10px;
+padding-top:10px;
+  display:inline-block;
+border-top:1px dashed #dddddd;
+-moz-user-select: none;
+-khtml-user-select: none;
+user-select: none;
+}
+
+#pubPic
+{
+ width:710px;
+ z-index:1;
+ min-height:210px;
+ margin-left:180px;
+ position:relative;
+}
+#picUpload
+{
+display:inline-block;
+}
+.picTag
+{
+display:inline-block;
+float:left;
+}
+.picBodyHead
+{
+  margin-left:10px;
+  width:700px;
+  color:#dddddd;
+  clear:both;
+}
+.picArea
+{
+   overflow:auto;
+   width:393px;
+   height:90px;
+   margin-left:1px;
+   background:none;
+   font-size:17px;
+   padding-left:5px;
+   padding-top:5px;
+   border:1px solid #dddddd;
+   color:#dddddd;
+   resize:none;
+}
+#picBu
+{
+ margin-top:10px;
+ margin-right:269px;
+ float:right;
+}
+#picRest
+{
+margin-left:40px;
+}
+#picUpload-queue
+{
+position:absolute;
+z-index:10000;
+margin-top:5px;
+padding:0 0 0 0;
+right:0px;
+top:0px;
+height:210px;
+width:250px;
+}

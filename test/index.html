@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>上传头像</title>
+<style type="text/css">
+body{font-family: Arial, '宋体';margin:0 auto;padding:0; background:url(images/bg.jpg) repeat;font-size:12px;color:#000;}
+.container { width:800px; margin:0px auto; }
+.section { background-color:#fff; padding:20px;}
+.row{ width:661px; overflow:hidden; margin-top:20px;line-height:30px;padding-left:94px;}
+.row span.label{float:left;position:relative;line-height:30px;margin-left:-94px;width:84px;text-align:right; color:#5b5b5b;}
+.btn_submit {background:url(images/submit.gif) no-repeat;width:70px;height:29px;border:0;}
+</style>
+</head>
+<body>
+
+<div class="container">
+	<h3>上传头像</h3>
+	<div class="section">
+		<div class="row" id="avatar_msg" style="font-weight:700;color:#f00;display:none;">上传成功，让我们一起Fuck铁道部！</div>
+		<div class="row">
+			<label><span class="label">当前头像：</span></label>
+			<img id="avatar" src="images/default.gif" />
+		</div>
+		<div class="row">
+			<label><span class="label">上传图片：</span></label>
+			<input type="text" id="avatarUpload" value="" />
+			<input type="hidden" id="img" name="img" />
+			<input type="hidden" id="x" name="x" />
+			<input type="hidden" id="y" name="y" />
+			<input type="hidden" id="w" name="w" />
+			<input type="hidden" id="h" name="h" />
+			<div style="padding-top:-10px;">
+				<a href="javascript:$('#avatarUpload').uploadify('upload','*')">开始上传</a> |
+				<a href="javascript:$('#avatarUpload').uploadify('cancel', '*')">取消上传</a>
+			</div>
+		</div>
+		<div class="row imgchoose" style="display:none;">编辑头像：<br /><img src="" id="target" /></div>
+		<div class="row imgchoose" style="display:none;">
+			头像预览：<br />
+			<div style="width:200px;height:200px;margin:10px 10px 10px 0;overflow:hidden; float:left;"><img class="preview" id="preview3" src="" /></div>
+			<div style="width:130px;height:130px;margin:80px 0 10px;overflow:hidden; float:left;"><img class="preview" id="preview2" src="" /></div>
+			<div style="width:112px;height:112px;margin:98px 0 10px 10px;overflow:hidden; float:left;"><img class="preview" id="preview" src="" /></div>
+		</div>
+		<div class="row">
+			<input type="button" class="btn_submit" value="" id="avatar_submit" style="display:none;" />
+		</div>
+	</div>
+</div>
+
+
+<script src="js/jquery.js"></script>
+<link href="uploadify/uploadify.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="uploadify/jquery.uploadify-3.1.js"></script>
+<script type="text/javascript" src="jcrop/jquery.Jcrop.min.js"></script>
+<link rel="stylesheet" href="jcrop/jquery.Jcrop.css" type="text/css" />
+
+
+</body>
+</html>

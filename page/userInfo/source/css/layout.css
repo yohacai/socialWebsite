@@ -1,0 +1,237 @@
+#contMain
+{
+    width:953px;
+	height:100%;
+	display:inline-block;
+background:#99000000;
+background:rgba(0,0,0,0.6);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);
+margin-bottom:20px;
+padding-left:20px;
+padding-top:20px;
+}
+.infoMain
+{
+   width:1300px;
+}
+.infoDiv
+{
+   width:650px;
+   overflow-x:hidden;
+   margin-left:300px;
+}
+.photoWall
+{
+float:left;
+width:300px;
+height:400px;
+}
+.photoWall img
+{
+width:200px;
+cursor:pointer;
+}
+.photoWallFoot
+{
+  color:#dddddd;
+  font-size:15px;
+  width:100%;
+  margin-top:30px;
+}
+.briefInfo
+{
+  margin: 10px 0 0 0;
+}
+.briefInfoItem
+{
+   color:#eeeeee;
+   font-size:17px;
+   height:30px;
+   line-height:30px;
+   letter-spacing:3px;
+}
+.detailedInfo
+{
+width:650px;
+height:400px;
+float:left;
+}
+.detailedHead
+{
+ width:97%;
+ height:30px;
+ background:#7f111111;
+ background:rgba(22,22,22,0.4);
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7f111111,endColorstr=#7f111111);
+   color:#339966;
+   font-size:17px;
+   height:30px;
+   line-height:30px;
+   letter-spacing:3px;
+   padding-left:20px;
+   margin-bottom:30px;
+   clear:both;
+}
+.detInfoItem
+{
+   color:#eeeeee;
+   font-size:17px;
+   height:30px;
+   line-height:30px;
+   letter-spacing:3px;
+   margin-left:50px;
+   margin-bottom:15px;
+}
+.detInfoShare
+{
+   color:#eeeeee;
+   font-size:18px;
+   height:30px;
+   line-height:30px;
+   letter-spacing:3px;
+   margin-left:50px;
+   margin-top:35px;
+}
+.changeInfoBu
+{
+   float:right;
+   margin-right:10px;
+   font-size:15px;
+   color:#dddddd;
+   cursor:pointer;
+}
+.dtInfoChange
+{
+  width:650px;
+height:400px;
+float:left;
+left:970px;
+}
+.dtICLine
+{
+   margin-bottom:10px;
+   width:400px;
+   margin-left:40px;
+   display:inline-block;
+   }
+.dtICTag
+{
+  color:#dddddd;
+  font-size:17px;
+  float:left;
+}
+.dtICInput
+{
+  float:right;
+  height:20px;
+  width:200px;
+  background:none;
+  line-height:20px;
+  border:1px solid #dddddd;
+  padding-left:5px;
+  color:#dddddd;
+  -webkit-border-radius:5px;
+}
+.dtICHead
+{
+ width:97%;
+ height:30px;
+ background:#7f111111;
+ background:rgba(22,22,22,0.4);
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7f111111,endColorstr=#7f111111);
+   color:#339966;
+   font-size:17px;
+   height:30px;
+   line-height:30px;
+   letter-spacing:3px;
+   padding-left:20px;
+   margin-bottom:30px;
+   clear:both;
+}
+.changeCloseBu
+{
+   float:right;
+   margin-right:10px;
+   font-size:15px;
+   color:#dddddd;
+   cursor:pointer;
+}
+.dtICBuLine
+{
+margin-top:10px;
+ margin-left:130px;
+}
+.dtICBu
+{
+  width:60px;
+  height:30px;
+  border:none;
+  background:#339966;
+  background:rgba(51,153,102,0.5);
+  color:#dddddd;
+  -webkit-border-radius:10px;
+  cursor:pointer;
+}
+.introInput
+{
+  float:left;
+   color:red;
+   display:none;
+}
+a.avatarA:link,a.avatarA:visited,a.avatarA:hover,a.avatarA:active
+{
+   text-decoration:none;
+   color:white;
+   cursor:pointer;
+}
+.uploadDiv
+{
+width:650px;
+height:400px;
+position:absolute;
+left:330px;
+}
+.uploadMain
+{
+  margin-top:150px;
+  margin-left:150px;
+}
+.saveAvatars
+{
+   margin-left:-80px;
+   width:730px;
+   position:relative;
+   float:left;
+   z-index:2;
+   display:none;
+}
+
+.oriImg
+{
+   float:left;
+}
+.cutImg
+{
+margin-right:10px;
+margin-top:10px;
+width:200px;
+height:150px;
+overflow:hidden;
+float:right;
+}
+.saveBuDiv
+{
+  position:absolute;
+  left:580px;
+  top:200px;
+    cursor:pointer;
+}
+.saveBu
+{
+  width:40px;
+  height:25px;
+  background:#336699;
+  border:none;
+  cursor:pointer;
+  color:white;
+}

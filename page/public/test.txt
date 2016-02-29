@@ -1,0 +1,640 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="gbk" />
+<meta http-equiv="X-UA-Compatible"  content="IE=Edge" />
+<title>《IT观察－观察者说》葛甲：互联网战争 在线观看 - 酷6视频</title>
+<meta name="title" content="《IT观察－观察者说》葛甲：互联网战争 视频" />
+<meta name="keywords" content="IT观察,观察者,葛甲,互联网,战争,综艺,在线观看" /> 
+<meta name="description" content="《IT观察－观察者说》葛甲：互联网战争 在线观看，《IT观察－观察者说》葛甲：互联网战争" />
+<link rel="alternate" type="application/rss+xml" title="酷6视频-会员观察最新发布视频" href="http://v.ku6.com/u/22842576/rss" />
+<link rel="alternate" type="application/rss+xml" title="酷6网-精彩视频推荐" href="http://rss.so.ku6.com/rss" />
+<link rel="canonical" href="http://v.ku6.com/show/Hwk-DLWkhPzzEz9ppOa2tg...html" />
+<link href="http://css.ku6cdn.com/comm/v/fp/201311291050/watch_css.css" rel="stylesheet" />
+<script>
+document.domain = 'ku6.com';
+snyu_page_params='vid=Hwk-DLWkhPzzEz9ppOa2tg..&category=118000';
+_beacon_pageid = (function(){var l=new Date,b=function(m,n,c){m=m.toString(36).split("");n=n/4|0;c=c/4|0;for(var a=n;a<=c;a++){!m[a]&&(m[a]=0)}return m.slice(n,c+1).join("")},i=function(a){return Math.random()*(a+1)|0},f=function(a){a=a.replace(/./g,function(p){return p.charCodeAt()}).split("");var o=16777619,n=2166136261,m=a.length;for(var c=0;c<m;c++){n=(n^a[c])*o}n+=n<<13;n^=n>>7;n+=n<<3;n^=n>>17;n+=n<<5;n=n&2147483647;n=n.toString(36);n.length<6&&(n+=(m%36).toString(36));return n},e=[screen.width,screen.height,navigator.plugins.length,navigator.javaEnabled(),screen.colorDepth,location.href,navigator.userAgent].join("");var j=new Date,k=(+j+631152000000).toString(36),d=b(i(4095),0,7)+b(i(8191),0,7)+b(i(8191),0,8),h=Math.random()*(251)+50|0,g=[];k.length<9&&(k+=(j%36).toString(36));for(;h--;){g.push(Math.random())}return f(e)+f([document.documentElement.offsetWidth,document.documentElement.offsetHeight,history.length,new Date-l].join(""))+k+d+f(g.slice(0,10).join(""))+f(g.slice(h-9).join(""))})();
+;(function(l, o, a, d, i, n, g){
+    if (l[a]) return; g = function(i){return function(){l[a][a].push([i, arguments])}}; l[a] = g(0); l[a].config=g(2);l[a][a] = []; l.require = {ensure: g(1)}; g = o.createElement('script'); g.src = n; n = o[i] || o[d](i)[0]; i = o[d]('base')[0]; i ? n.insertBefore(g, i) : n.appendChild(g); })(this, document, 'define', 'getElementsByTagName', 'head', '//js.ku6cdn.com/comm/v/fp/5.2.9/kpi.js');	;(function(w, doc){w.jump = function(url){if(!-[1,]){var a = doc.createElement('a');a.href = url;doc.body.appendChild(a);a.click()}else{location.assign(url)}}}(this, document));
+define('app', {
+gold:true,
+debug: 0,
+pid: _beacon_pageid,
+qdurl: '//cj.qidian.com/svnad/ku6/adjs.js',
+jfurl: '//jf.ku6.com/topic_do/ajaxWatchVideo?cb=define&vid=',
+Player:{swf:'//player.ku6cdn.com/default/loader/201310281545/v.swf?playerVersion=201312171109&playerType=httpins', vars:{cid:'ku6player'}, task:[], events:[]},
+Clip:{src:'//player.ku6cdn.com/podcast/swf/201111221408/clip.swf'},
+user:{id:"22842576", gender:"2", name: "3896911327", nick: "\u89c2\u5bdf", desc: "", url:"", ownerIndex:"/u/22842576", bigIcon:"http://img.ku6.com/common/headface/male/9_big.jpg", icon:"http://img.ku6.com/common/headface/male/9_big.jpg"},
+bids: [91735],
+aids: [50575,50576,50577,200763,201760]
+
+});
+
+(function(n,j){var h,r=document.referrer,f=j.href;if(/iPad|SGP341/.test(n)){window._mobile=1;return};if((/AppleWebKit.*Mobile/i.test(n)||/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE|Mobi|UCWEB|MQQBrowser|Mini|Nexus|UC/.test(n)||(n=='Mozilla/5.0 (X11; U; Linux i686; zh-CN; rv:1.2.3.4) Gecko/'))&&!/\?mobile$/.test(j.search)&&!/\/film\/|index\_/.test(f)){try{f=f.split('.html')[0]+'.html';if(/\/special\/show/.test(f)){h=f.replace(/special\/show_\d+/,'show').replace(/^http\:\/\/v/,'http://m')}else{h=f.replace(/^http\:\/\/v/,'http://m')};if(j.search=='?from=QR_code')jump(h+'?from=QR_code');if(r)h+='?from='+r;jump(h)}catch(e){}}}(navigator.userAgent,location));
+
+define('playcount', {});
+require.ensure('app', function(require, app){
+window._js_PlayerHelper = {fire: function (n, c, v) {if (n == 'initPlayerFinished') {app.Player.ready = true; } else app.Player.events.push([].slice.call(arguments, 0)); }, exec: function (n, v) {app.Player.task.push([].slice.call(arguments, 0)); } }; }); Ku6 = {focus: function (el){if (el.value.trim() == el.defaultValue){el.value = ''; el.style.color = 'black'; } }, blur : function (el) {if (el.value.trim() == '') {el.value = el.defaultValue; el.style.color = 'gray'; } }}; (function (doc) {var match = /[\?&]from=(bd\w+)(?=\b|&|$)/.exec(location.search), refer = doc.referrer; if ( match && (!refer || /^https?:\/\/(?:[^\.]+\.)+ku6\.c(?:om|n)/.test(refer))) {doc.cookie = 'frombd=' + encodeURIComponent(match[1]) + ';path=/; domain=ku6.com'; } })(document);
+define.config('base','//js.ku6cdn.com/comm/');App = { VideoInfo:{ setCount: false, hd:1, commvid: "", id: "Hwk-DLWkhPzzEz9ppOa2tg..", kid: "SzqD9Ki_9Uy4Uze_qzSqtg..", uid: "22842576", usernick: "\u89c2\u5bdf", title: "\u300aIT\u89c2\u5bdf\uff0d\u89c2\u5bdf\u8005\u8bf4\u300b\u845b\u7532\uff1a\u4e92\u8054\u7f51\u6218\u4e89", tag: "IT\u89c2\u5bdf\u0020\u89c2\u5bdf\u8005\u0020\u845b\u7532\u0020\u4e92\u8054\u7f51\u0020\u6218\u4e89", soHost:"http://re4.v.so.ku6.com", desc: "\u300aIT\u89c2\u5bdf\uff0d\u89c2\u5bdf\u8005\u8bf4\u300b\u845b\u7532\uff1a\u4e92\u8054\u7f51\u6218\u4e89", time: "640", channel: "118000", activity: "0", cover: "http://vi1.ku6img.com/data1/p10/ku6video/2013/12/12/17/1392166397905_89966222_89966222/5.jpg", filmId: "0", filmChannelId: "0", filmCurPage: "1", data: {"data":{"s":0,"srctype":6,"flag":"","t":"\u300aIT\u89c2\u5bdf\uff0d\u89c2\u5bdf\u8005\u8bf4\u300b\u845b\u7532\uff1a\u4e92\u8054\u7f51\u6218\u4e89","u":22842576,"a":"1","ad":"","comm":0,"fav":0,"c":118000,"picpath":"http\u003a//vi1\u002eku6img\u002ecom/data1/p10/ku6video/2013/12/12/17/1392166397905_89966222_89966222/5\u002ejpg","bigpicpath":"http\u003a//vi1\u002eku6img\u002ecom/data1/p10/ku6video/2013/12/12/17/1392166397905_89966222_89966222/105\u002ejpg","commvid":"","hd":1,"logocoors":"","profitAddr":"","sndap2p":"1","vtime":"640\u002c297\u002c294\u002c48","vtimems":"640000\u002c297587\u002c294985\u002c48018","videosize":"67825832","f":"http\u003a//main\u002egslb\u002eku6\u002ecom/s0/PJoGCwnmAUiCfG_Y/1386842395906/99b273cbb73f6b6228f37126e5072761/1387724281204/v144/30/22/386994c761d4588b8c16c55890271fb7\u002df4v\u002dh264\u002daac\u002d812\u002d32\u002d297587\u002e0\u002d31638725\u002d1386842206128\u002d551b1e1c2cc60a184f34ef8ab6678a25\u002d1\u002d00\u002d00\u002d00\u002ef4v\u002chttp\u003a//main\u002egslb\u002eku6\u002ecom/s1/PJoGCwnmAUiCfG_Y/1386842395906/cf445f225982b944b7b58e73a8caa5f6/1387724281204/v144/14/80/a08627fbbb076d54e09eb9486ba45e9e\u002df4v\u002dh264\u002daac\u002d788\u002d32\u002d294985\u002e0\u002d30479956\u002d1386842207126\u002d609ea9391afe115f59c6f5536b2d3862\u002d2\u002d00\u002d00\u002d00\u002ef4v\u002chttp\u003a//main\u002egslb\u002eku6\u002ecom/s2/PJoGCwnmAUiCfG_Y/1386842395906/b6d8ebd3a25500dba0c34f6efeb5ab6a/1387724281204/v144/93/31/390d9f82c2d113fdfecc90316ea809f4\u002df4v\u002dh264\u002daac\u002d968\u002d32\u002d48018\u002e0\u002d6045497\u002d1386842207740\u002d37368183a92f7a017f8dadd4a2b68cd0\u002d3\u002d00\u002d00\u002d00\u002ef4v","r":99,"mediasrc":0},"status":1} }, ObjectInfo:{ id: "0", uid: "0", usernick: "", title: "", tag: "", desc: "", channel: "0", soHost : "http://re4.v.so.ku6.com" }, RunTime:{}};
+define('info', App.VideoInfo);
+define('oinfo', App.ObjectInfo);
+require.ensure(['app', 'info'], function(require, app, info){
+	app.videoMode = "single";
+	app.newKu6 = /from=my/.test(location.href);
+	app.href = "http://v.ku6.com/show/Hwk-DLWkhPzzEz9ppOa2tg...html";
+	app.cookieKey = 'seriatPlay';
+	info.data.data.pid = _beacon_pageid;
+	info.AdMode = 'sad';
+	info.LbNum = (function(){var l = document.cookie.match(/(?:^|;)\s*_nn=([^;]*)/),n = document.cookie.match(/(?:^|;)\s*lb=([^;]*)/),m = 0;if(l){if(n && n.length){m = parseInt(n[1]) + 1;document.cookie='lb='+m} else {m = parseInt(n) + 1;document.cookie='lb='+m+';expires='}} else {document.cookie='lb=0'}return m}());
+	
+	info.lb = 1;
+	
+});
+</script>
+<style>
+.wcrm_con{height:302px;}
+</style>
+</head>
+<body class="nc">
+<div class="header">
+    <div class="head_cnt nl_ts">  
+        <span class="ckl_logo"><a href="http://www.ku6.com/" title="酷6网&mdash;&mdash;中国最大的视频社区 " class="logo">酷6网</a></span>
+        <div class="header_btnK"></div>
+        <div class="sch_form">
+            <form id="search-form" action="http://my.ku6.com/search" target="_blank" accept-charset="utf-8" onSubmit="if(!-[1,]){document.charset='utf-8';setTimeout(function(){document.charset='gbk';},100)}">
+               <input class="txt" type="search" value="请输入查询内容" name="q" onblur="Ku6.blur(this)" onfocus="Ku6.focus(this)">
+               <input type="submit" class="tsb1" value="">          
+            </form>
+        </div>
+        <div class="head_menu">
+      <ul>
+                <li class="first">                   
+                <a href="http://my.ku6.com/videos" target="_blank">随便看看</a></li>
+                <li><a href="http://my.ku6.com/my_upload" target="_blank">上传</a></li>
+            </ul>
+        </div>
+        <div class="head_menu" id="hdLogin">            
+            <ul>
+                <li class="first"><a href="//passport.ku6.com/login.htm">登录</a></li>
+                <li><a href="//passport.ku6.com/register.htm" target="_blank">注册</a></li>
+            </ul> 
+        </div>        
+        <script type="text/tpl" id="tpl_login"><a class="info" href="//boke.ku6.com/<#=id#>" target="_blank">
+                <span class="head"><span><img src="<#=small#>"></span></span>
+                <span title="<#=nick#>" class="name"><#=shortNick#></span>
+                <span class="arrow arw_down"></span>
+            </a>
+            <p class="um_box"> <a href="//boke.ku6.com/<#=id#>">我的播客</a><a href="//my.ku6.com/my_videos">视频管理</a><a href="//my.ku6.com/my_subscriptions">我的关注</a><a href="//my.ku6.com/my_messages">消息中心</a><a href="//my.ku6.com/my_account">账号设置</a><a href="//passport.ku6.com/logout.htm" class="_logout">退出</a></p></script> </div>
+</div>
+<div class="ckl_qixi">
+<div class="w_wrap cfix">
+	<div class="vtil_main cfix">
+    	<div class="vedio_til v_title cfix">
+        	<span>
+	        
+				<a href="http://zongyi.ku6.com/" target="_blank">综艺</a>
+			 &gt; 
+			
+			<a href="http://top.ku6.com/v_t1d1c118000p1.html" target="_blank">综艺列表</a> &gt;
+			
+		
+		</span><h1 title="《IT观察－观察者说》葛甲：互联网战争">《IT观察－观察者说》葛甲：互联网战争</h1>
+        </div>
+        <div class="vt_user cfix">
+            <div class="vt_btn_div">
+            	<a class="kw_btn kb1" href="http://boke.ku6.com/22842576" target="_blank" title="观察">上传者：观察</a>
+                <a class="kw_btn kb3" href="http://my.ku6.com/watch?show=1&li=uploaded&channel=22842576&v=Hwk-DLWkhPzzEz9ppOa2tg.." onclick="return false" data-uid="22842576" id="pl-handler"><em class="img_i1"></em>11个视频</a>
+                <a class="kw_btn kb2" href="#" hidefocus><p class="gz_1 tooltips tooltips-up" data-tips="点此按钮即可收到来自此播客的新视频通知"><em class="img_i"></em>关注</p><p class="gz_1 gz_2 tooltips tooltips-up" data-tips="点此按钮中止接收来自此播客的新视频通知"><em class="img_i img_i0"></em><span class="kb2_a">已关注</span><span class="kb2_b">取消关注</span></p></a>
+            </div>
+            <div class="vt_btn_ad"></div>
+            <div class="clear cfix"></div>
+            <div class="top_play_list cfix" id="clips-slider" style="display: none;">
+              正在加载...
+            <script type="text/tpl" id="clips-slider-tpl">
+                <div class="top_plist_page cfix">
+                    <h3><a href="//my.ku6.com/watch?v=Hwk-DLWkhPzzEz9ppOa2tg..&amp;show=1&amp;li=uploaded&amp;channel=22842576">观看所有<#=count.currency()#>个视频</a></h3>
+                    <div class="tplist_page">
+                    <#for(var i = 1; i <= pages; i ++){#>       
+                        <a data-i="<#=i#>" class="kw_btn kb4 ctl<#if(i==1){#> kb4_on<#}#>" href="javascript:void(0)"><#=i#></a>
+                    <#}#>
+                    </div>
+                </div>
+                <a id="clips-slider-btnl" class="kw_btn_a fl ctl" href="#" onclick="return false" data-i="left"><em class="img-bg"></em></a>
+                <div class="top_plist_box fl">
+                  <ul id="watch-video-box" class="topplist_ul cfix">
+                    <#for(var i = 0, video; video = list[i++];) {#>
+                        <li class="bVi bV_a plus" data-vid="<#=video.vid#>" data-uid="<#=video.author.id#>">
+                            <a class="topplist_ul_a cfix" target="_blank" href="http://v.ku6.com/show/<#=video.vid#>.html?from=tab">
+                                <span class="topplist_ul_span_a">
+                                    <span class="v_det<#=video.srcType.typize()#>"></span>
+                                    <img alt="<#=video.title#>" src="//css.ku6cdn.com/img/blank.png" _src="<#=video.picPath.fixUri()#>">
+                                    <span class="tm"><#=video.videoTime.timize()#></span>
+                                </span>                                        
+                                <span class="topplist_ul_span_b"><#=video.title#></span>
+                                <span class="topplist_ul_span_c"><cite class="broadcast"></cite></span>
+                            </a>
+                        </li>
+                    <#}#>                   
+                    </ul>
+                </div>
+             
+                <a id="clips-slider-btnr" class="kw_btn_a fr ctl" href="#" onclick="return false" data-i="right"><em class="img-bg-A"></em></a>
+            </script>               
+            </div>
+        </div>
+<div class="wcr_ad" id="gg201760">
+
+</div>
+</div>
+
+
+<div class="w_box">
+	<div class="w_box_inner" id="kplayer"  style="height:493px"></div>
+<script>
+(function(n, l, swf){
+	if(window._mobile) return;
+	var u = n.userAgent,
+		s = l.search,
+		ie = (function(){
+			return /msie/i.test(u) || (/rv:11.0/.test(u)&&/Trident\/7.0/.test(u));
+		}()), i,
+		tip = '<p class="noplayer">您没有安装Flash播放器或者Flash播放器版本低于10.0.0<br/>为了能够正常观看视频，请您点此。<a href="http://www.adobe.com/go/getflashplayer/" target="_black">下载最新版本</a></p>',
+		data = {
+			'quality':'high',
+			'allowScriptAccess':'always',
+			'wMode':'opaque',
+			'swLiveConnect':'true',
+			'allowFullScreen':'true',
+			'bgColor':'#000000',
+			'flashVars':"vid=Hwk-DLWkhPzzEz9ppOa2tg..&amp;channel=118000&amp;hdratelevel=500&amp;bufferutime=1500&amp;uid=22842576&amp;ref=http%3A%2F%2Fv.ku6.com%2Fshow%2FHwk-DLWkhPzzEz9ppOa2tg...html&amp;type=0&amp;qvodversion=201305211938&amp;cid=ku6player&amp;activityurl=http%3a%2f%2fjf.ku6.com&clogo=http%3a%2f%2fcss.ku6cdn.com%2fcomm%2fv%2ffp%2f201309161800%2fclogos.png"
+			};
+
+	function swfSwf(){
+		this.init.apply(this, arguments);
+	}
+	swfSwf.prototype = {
+		init: function(){
+			var v = this.version();
+			this.container = document.getElementById('kplayer');
+			if(isNaN(parseFloat(v))||parseFloat(v)<10){
+				this.container.innerHTML = tip;
+			} else {
+				this.build(true);
+			}
+		},
+		version: function(){
+			var w = [],
+				p ='Shockwave Flash';
+			if(ie){
+				try{
+					swf = new ActiveXObject('ShockwaveFlash.ShockwaveFlash');
+					if(swf){
+						return swf.GetVariable("$version").split(" ")[1].replace(/,/,'.').replace(/,/g,'')
+					}
+				} catch(e){}
+			}else{
+				if(n.plugins && typeof n.plugins[p]=='object'){
+					swf=n.plugins[p].description;
+					if(swf){
+						w = swf.split(" ");
+						for(var i=0;i<w.length;++i){
+							if(isNaN(parseInt(w[i]))){
+								continue
+							};
+							return w[i];
+						}
+					}
+				}
+			};
+		},
+		build: function(kpi){
+			var arr = [], add = '';
+			if(s =='?from=bdbytj'||/from=bdbytj/.test(l.href)){
+				add ='&amp;log=0'
+			}
+			if(kpi && App.VideoInfo.kid && !document.cookie.match(/(?:^|;)\s*_ln=([^;]*)/)){
+				add = '&amp;kid='+App.VideoInfo.kid
+			}
+			if(!kpi) add += '&amp;adss=0';
+
+			for(i in data){
+				if(data.hasOwnProperty(i)){
+					if(i== 'flashVars'){
+						arr.push('<param value="'+data[i]+add+'" name="'+i+'">')
+					} else arr.push('<param value="'+data[i]+'" name="'+i+'">')
+					
+				}
+			};
+
+			v = (/(^|\\?|&)from=qvod(\\s|&|$)/.test(s)) ? 
+			'//player.ku6cdn.com/default/common/player/201305221328/player.swf':
+			'//player.ku6cdn.com/default/loader/201310281545/v.swf?playerVersion=201312171109&playerType=httpins';
+			var w = ie?'classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="'+v+'">':'data="'+v+'" type="application/x-shockwave-flash">';
+			this.container.innerHTML = '<object type="application/x-shockwave-flash" width="100%" height="100%" id="ku6player" '+w+arr.join('')+'</object>'
+		}
+	}
+	window['swfSwf'] = new swfSwf();
+}(navigator, location));
+</script>
+
+</div>
+    <div class="w_con cfix">
+    	<div class="wc_left cfix">
+
+        	<ul class="toolBox cfix">
+              <li class="tooltips btn-up" data-tips="顶一下"><a href="#"><i></i><cite>顶</cite><em></em></a></li>
+              <li class="tooltips btn-at tooltips-up" data-tips="你想用@提到谁？" style="display:none">
+              	<form class="w_zf" onsubmit="return false">
+                	<input class="w_zf_input" maxlength＝"100"><div class="cKL_ok"><input type="submit" value="确定" /></div>
+                    <div class="w_zf_tips">你想用@提到谁？</div>
+                </form>
+              <a href="#"><em>@</em></a></li>
+              <li class="btn-add _pl plus-remain tooltips" data-tips="收藏到收藏夹或播放列表"><span class="btn-ads"><a href="#" class="tooltips" data-tips="收藏到以后观看"><i></i><em>收藏</em></a></span><span class="btn-arr"><a href="#" class="exp"><i></i></a></span></li>
+              <li class="btn-share tooltips" data-tips="分享到各SNS社区"><span class="btn-ads"><a href="#"><em class="fx_0">分享</em><i class="i_i0" data-to="qq"></i><i class="i_i1" data-to="xl"></i><i class="i_i2" data-to="rr"></i><i class="i_i3" data-to="wx"></i></a></span><span class="btn-arr"><a href="#"><i></i></a></span></li>
+
+              
+
+<li class="btn-wx tooltips" data-tips="手机看视频"><span class="btn-ads"><a href="#"><em>手机看视频</em></a></span><span class="btn-arr"><a href="#"><i></i></a></span></li>
+
+              
+
+
+              <li class="btn-wg tooltips tooltips-up" data-tips="帮助与举报"><a href="#" class="cKL_entv" onclick="return false">？</a>
+                <div class="sub"><a href="http://www.ku6.com/help/faq_play.html" target="_blank">帮助</a><a class="btn_jb" href="#">举报</a></div></li>
+              <li class="btn-num"><em></em><span></span></li>
+            </ul>
+            <div id="share-clip-sns" class="tips tipC">
+              <span class="closed"><a href="#"></a></span>
+                <div class="d_box01">
+                  <span class="tNav">分享视频：</span>
+                  <p class="cfix">
+                    <a title="QQ空间" id="zt_qq" href="#"></a>
+                    <a title="新浪微博" id="zt_xl" href="#"></a>
+                    <a title="腾讯好友" id="zt_sqq" href="#"></a>
+                    <a title="腾讯微博" id="zt_qqt" href="#"></a>
+                    <a title="开心网" id="zt_kx" href="#"></a>
+                    <a title="推他" id="zt_tuita" href="#"></a>
+                    <a title="豆瓣" id="zt_db" href="#"></a>  
+                    <a title="百度空间" id="zt_bd" href="#"></a>
+                    <a title="猫扑" id="zt_mop" href="#"></a>
+                    <a title="人人网" id="zt_rr" href="#"></a>
+                    <a title="百度贴吧" id="zt_bdi" href="#"></a>
+                    <a title="网易微博" id="zt_163" href="#"></a>
+                    <a title="奇谈" id="zt_qt" href="#"></a>
+                    
+                    <a title="飞信" id="zt_ft" href="#"></a>
+                    <a title="51" id="zt_51" href="#"></a>
+                    <a title="腾讯朋友" id="zt_qqpy" href="#"></a>  
+                    <a title="天涯社区" id="zt_ty" href="#"></a>  
+                    <a title="微信" id="zt_wx" href="#"></a>
+                    <a title="花瓣" id="zt_hb" href="#"></a>
+                 </p>
+                 </div>
+                <div class="clear"></div>
+                <div class="d_box01">
+                    <span class="tNav">嵌入代码：</span>
+                    <form onSubmit="return false" autocomplete="off" class="tNav_R cfix">
+                        <p class="con_A">
+                        <span class="cKL_addres">视频地址</span>
+                        <input class="text_A" value="http://player.ku6.com/refer/Hwk-DLWkhPzzEz9ppOa2tg../v.swf" title="点击右侧复制按钮直接复制内容" readonly>
+                        <span class="flash"></span>
+                        <a href="#" class="exp"></a>
+                        </p>
+                        <p class="con_A cKL_mleft">
+                        <span class="cKL_addres">页面地址</span>
+                        <input class="text_A" value="http://v.ku6.com/show/Hwk-DLWkhPzzEz9ppOa2tg...html" title="点击右侧复制按钮直接复制内容" readonly>
+                        <span class="flash"></span>
+                        <span class="cKL_addres">网页代码</span>
+                        <input class="text_A" value="&lt;embed src=&quot;http://player.ku6.com/refer/Hwk-DLWkhPzzEz9ppOa2tg../v.swf&quot; width=&quot;480&quot; height=&quot;400&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; type=&quot;application/x-shockwave-flash&quot; flashvars=&quot;from=ku6&quot;&gt;&lt;/embed&gt;" title="点击右侧复制按钮直接复制内容" readonly>
+                        <span class="flash"></span>
+                        <span class="cKL_addres">脚本代码</span>
+                        <input class="text_A" value="&lt;script data-vid=&quot;Hwk-DLWkhPzzEz9ppOa2tg..&quot; src=&quot;//player.ku6.com/out/v.js&quot; data-width=&quot;480&quot; data-height=&quot;400&quot;&gt;&lt;/script&gt;" title="点击右侧复制按钮直接复制内容" readonly>
+                        <span class="flash"></span>
+                        </p>
+                        
+                    </form>
+                 </div>
+            </div>
+
+            <div id="wx-clip" class="tips tipC">
+              <span class="closed"><a href="#"></a></span>
+              <textarea style="display:none;">
+             <div class="cfix ckl_erright">
+      <h3>拍下二维码，视频随便看</h3>
+    </div>
+    <div class="erwei">
+            <img src="http://qrcode.ku6.com/qr?txt=http://v.ku6.com/show/Hwk-DLWkhPzzEz9ppOa2tg...html?from=QR_code"/>
+              </div>
+    <div class="ckl_expright">
+      <p>{title}</p>
+        <span class="ckl_veditime">视频时长{time}</span>
+        <span class="ckl_help">帮助：<a onmousedown="ckLog('wxapp')" target="_blank" href="//www.ku6.com/client_mobile/index.shtml">下载新版酷6客户端</a><em>|</em><a target="_blank" href="//baike.baidu.com/view/7443374.htm">如何使用微信拍二维码</a></span>
+    </div>
+
+                
+              </textarea>
+            </div>
+
+			<div class="infoBox cfix">
+		      <dl class="infoList">
+		        <dd>发布时间：<em>10天前</em></dd>
+		        <dt>标签：<a href="http://so.ku6.com/search?q=IT%E8%A7%82%E5%AF%9F" target="_blank">IT观察</a><a href="http://so.ku6.com/search?q=%E8%A7%82%E5%AF%9F%E8%80%85" target="_blank">观察者</a><a href="http://so.ku6.com/search?q=%E8%91%9B%E7%94%B2" target="_blank">葛甲</a><a href="http://so.ku6.com/search?q=%E4%BA%92%E8%81%94%E7%BD%91" target="_blank">互联网</a><a href="http://so.ku6.com/search?q=%E6%88%98%E4%BA%89" target="_blank">战争</a></dt>
+		        <dd><span>《IT观察－观察者说》葛甲：互联网战争</span></dd>
+			  </dl>
+            </div>
+            <div class="arrLine cfix arrLine-on"><a href="#"><span><cite>展开全部介绍</cite><em>隐藏部分介绍</em></span></a></div>
+			           <div class="lplayCon">
+                <div class="lpTitle">
+                    <h2><em class="TipsIndex">Channel Me 精选栏目</em></h2>
+                </div>
+                <div class="lbconBox">
+            <a href="#" onclick="return false" id="lBtn" class="lBtn">左边按钮</a>
+            <div class="lp_roll_box lazy">
+                <ul id="lp_roll_list" class="wc_list _st" data-st="1_8_">
+                </ul>
+            </div>
+            <a href="#" onclick="return false" id="rBtn" class="rBtn">右边按钮</a>
+        </div>
+        </div>
+<div id="gg200763"></div>
+        <div class="Com_m cfix" id="discuss-form">
+            <div style="display: block;" class="nocmt"><h3>评论<a href="http://v.ku6.com/show/Hwk-DLWkhPzzEz9ppOa2tg...html">《IT观察－观察者说》葛甲：互联网战争</a>视频&#12288;或 <a target="_blank" title="点击创建视频回复" href="//my.ku6.com/comments/upload/?v=Hwk-DLWkhPzzEz9ppOa2tg..">创建视频回复</a></h3></div>
+            <div  class="nocmts"></div>
+            <div class="Com_m_picf"><a class="vcard _card" target="_blank" title="" href="javascript:;"><img title="" src="http://css.ku6cdn.com/img/both_small.gif"></a></div>
+                <form onsubmit="return false" class="Com_m_form">
+
+                    <em class="Com_ku6ico"></em>
+                    <textarea name="content" onfocus="Ku6.focus(this)" onblur="Ku6.blur(this)">评论此视频...</textarea>
+                    <div class="Com_Release">
+                        <div class="tier tr01"> 
+                        <span class="off"><a href="#" onclick="return false"><img src="//css.ku6cdn.com/comment/v3/off_11.gif"></a></span>
+                          <p class="cKL_Expression cfix" onclick="return false">
+                            <a href="#" class="t01"></a> <a href="#" class="t02"></a> <a href="#" class="t03"></a> <a href="#" class="t04"></a> <a href="#" class="t05"></a> <a href="#" class="t06"></a> <a href="#" class="t07"></a> <a href="#" class="t08"></a> <a href="#" class="t09"></a> <a href="#" class="t10"></a> <a href="#" class="t11"></a> <a href="#" class="t12"></a> <a href="#" class="t13"></a> <a href="#" class="t14"></a> <a href="#" class="t15"></a> <a href="#" class="t16"></a> <a href="#" class="t17"></a> <a href="#" class="t18"></a> </p> </div>
+                        <em class="face_em"><span class="face_all"></span>表情</em>
+                        <em><span class="left-num">2000</span>剩余字符数</em>
+                        
+
+                        
+                        <em class="cKL_ipu"><span>验证码：</span><input type="text" name="vcode" maxlength="4" /><img src="//css.ku6cdn.com/img/blank.png" width="60" height="20" class="imgcode" alt="验证码" title="单击更换验证码" /></em>
+                        <div class="but">
+                            
+                            <button class="Sub_button" type="submit"><span>发布</span></button>
+                            <span class="succ-tips"></span>
+                            <a class="cancel" href="###" style="display:none;"></a>
+                        </div>
+                    </div>
+                    <div style="display:none;" class="Com_mmtsy">评论正在审核中，请耐心等待！</div>
+                </form>
+                        
+        </div>
+        <div class="cmt_cnts">
+        <!--导航卡开始-->
+            <div class="cKL_Navigation">
+                <a href="#" title="" class="on">全部评论</a>
+                <a href="#" title="" style="display:none;">热门评论</a>
+            </div>
+        <!--导航卡结束-->
+        <!--列表开始-->
+        <div class="cKL_list"><div class="cfix _ct"><p class="loading">正在加载...</p></div><div class="cfix cKL_newpage _pg"></div></div>
+        <div class="cKL_list" style="display:none"><div class="cfix _ct"><p class="loading">正在加载...</p></div><div class="cfix cKL_newpage _pg"></div></div>
+       <script type="text/html" id="tpl_comment"><#if(list.length){
+                var site = {QQ:'腾讯微博',SINA:'新浪微博'};
+                var site_url = {QQ:'//t.qq.com',SINA:'//weibo.com'};
+                for(var i = 0, item, now = +new Date; item = list[i++];){#>
+                <#if(item.commentAuthorId && item.commentAuthorId==9999 && item.partner){#>
+                  <div class="hotList" data-id="<#=item.id#>">
+                    <div class="pic"><#if(item.partner.p_icon){#><a class="n1" href="<#=item.partner.p_user_url#>" target="_blank"><img src="<#=item.partner.p_icon#>" class="noicon"></a><#}#></div>
+                    <div class="name">
+                        <a class="n1" href="<#=item.partner.p_user_url#>" target="_blank"><#=item.partner.p_username#></a><a title="<#=site[item.partner.p_source]#>" class="icon_<#=item.partner.p_source#>" href="<#=site_url[item.partner.p_source]#>" target="zt_w_xl"><em></em></a>
+                    </div>
+                    
+                    <div class="hotText expion cfix">
+                        <div class="M_con">
+                            <#if(item.video){#>
+                        <div class="A_listC">
+                        <a href="/show/<#=item.video.id#>.html" target="_blank">
+                        <img src="<#=(item.video.picpath || 'css.ku6cdn.com/img/nopic.jpg').fixUri()#>" alt="<#=item.video.title#>" /></a>
+                        </div>
+                            <#} else {#>
+                            <#=item.commentContent.at()#><#if(item.comment){#><blockquote class="re_con cfix"><#if(item.comment.commentAuthorId){#><a class="n1" href="http://boke.ku6.com/<#=item.comment.commentAuthorId#>" target="_blank"><#=item.comment.commentAuthor#></a><#}else{#>酷6网友(<#=item.comment.commentIpcity#>)<#}#> 写道：<br /><#=item.comment.commentContent.at()#></blockquote><#}#>
+                            <#}#>
+                        </div>
+                        <span class="located">发表于<#=item.commentCtime.ago(now)#>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;来自 <#=site[item.partner.p_source]#></span>
+                    </div>
+                     <!--删除样式-->
+                    <div class="M_button"><div class="A_listB"><a class="btn-del" href="#" data-act="del">删除</a></div><div class="a_box"><a title="顶(<#=item.commentCount||0#>)" class="A_but1" href="#" data-act="digg"></a><a title="回复该视频" class="A_but3" href="#" data-act="reply"></a><a title="" class="A_but4" href="#" data-act="drop"></a></div></div>
+                    <!--删除样式-->
+                    </div>
+                        
+                <#}else{#>
+                <div class="hotList" data-id="<#=item.id#>">
+                    <div class="pic"><#if(item.commentAuthorId){#><a class="n1" href="http://boke.ku6.com/<#=item.commentAuthorId#>" target="_blank"><img src="//css.ku6cdn.com/img/both_small.gif" title="<#=item.commentAuthor#>" data-id="<#=item.commentAuthorId#>" class="noicon"></a><#}else{#><img src="//css.ku6cdn.com/img/both_small.gif"><#}#></div>
+                    <div class="name">
+                        <#if(item.commentAuthorId){#><a class="n1" href="http://boke.ku6.com/<#=item.commentAuthorId#>" target="_blank"><#=item.commentAuthor#></a><#}else{#><span>酷6网友(<#=item.commentIpcity#>)</span><#}#>
+                    </div>
+                    
+                    <div class="hotText expion cfix">
+                        <div class="M_con">
+                        <#if(item.video){#>
+                            <div class="A_listC">
+                            <a href="/show/<#=item.video.id#>.html" target="_blank">
+                            <img src="<#=(item.video.picpath || 'css.ku6cdn.com/img/nopic.jpg').fixUri()#>" alt="<#=item.video.title#>" /></a>
+                            </div>
+                        <#} else {#><#=item.commentContent.at()#>
+                            <#if(item.comment){#><blockquote class="re_con cfix">
+                            <#if(item.comment.commentAuthorId){#>
+                                <#if(item.comment.partner){#>
+                                    <a title="<#=site[item.comment.partner.p_source]#>" class="icon_<#=item.comment.partner.p_source#>" href="<#=site_url[item.comment.partner.p_source]#>" target="zt_w_xl"><em></em></a><a href="<#=item.comment.partner.p_user_url#>" target="_blank">
+                                    <#=item.comment.partner.p_username#></a>
+                                    <#} else {#>
+
+                                <a class="n1" href="http://boke.ku6.com/<#=item.comment.commentAuthorId#>" target="_blank"><#=item.comment.commentAuthor#></a>
+                                    <#}#>
+                                <#}else{#>酷6网友(<#=item.comment.commentIpcity#>)<#}#> 写道：<br /><#=item.comment.commentContent.at()#></blockquote><#}#>
+                            <#}#>
+                        </div>
+                        <span class="located">发表于<#=item.commentCtime.ago(now)#>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;来自 酷6网</span>
+                    </div>
+                    <!--删除样式-->
+                    <div class="M_button"><div class="A_listB"><a class="btn-del" href="#" data-act="del">删除</a></div><div class="a_box"><a title="顶(<#=item.commentCount||0#>)" class="A_but1" href="#" data-act="digg"></a><a title="回复该视频" class="A_but3" href="#" data-act="reply"></a><a title="" class="A_but4" href="#" data-act="drop"></a></div></div>
+                    <!--删除样式-->
+                </div>
+            <#}#>
+            <#}#>
+            <div class="cmt_anchor"><a href="#discuss-form">发表评论</a></div>
+        <#} else {#><p class="loading">暂无评论。</p><#}#>
+         </script>
+        </div>
+        
+         </div>
+        
+        <div class="wc_right">
+            <div class="wcr_main" style="350px;">
+            	<div class="wcrm_til">
+                	<a href="#" id="_tit_rec" class="on">
+                	
+                	相关视频
+                	</a>
+                    <a href="#" title="">热点视频</a>
+                    <a href="#" title="">精选视频</a>
+                </div>
+				
+                <div class="wcrm_con" style="display:block">
+                	
+					<ul class="wc_list _st" data-st="1_1_" id="s_rec">
+                   	</ul>
+                	
+                </div>
+
+				<div class="wcrm_con">
+                    <ul class="wc_list _st lazy" data-st="1_2_">
+                    
+                        <li class="bVi plus" data-vid="rQdE1vvAF5istBJrs5bjgw.." data-uid="19867403" data-recid="1"><p class="cKL_tm"><a href="/show/rQdE1vvAF5istBJrs5bjgw...html" title="博人眼球有高招 年度大尺度艺人系列 "><span class="v_det3"></span><span class="cm">00:59</span><img class="img" _src="http://vi1.ku6img.com/data1/p11/ku6video/2013/12/21/19/1392952394866_91105387_91105387/5.jpg" src="//css.ku6cdn.com/img/blank.png" alt="博人眼球有高招 年度大尺度艺人系列 "></a></p><span class="wtil"><a href="/show/rQdE1vvAF5istBJrs5bjgw...html" title="博人眼球有高招 年度大尺度艺人系列 ">博人眼球有高招 年度大尺度艺人系列 </a></span><span class="bk_name green" title="首页今日焦点">首页今日焦点</span></li><li class="bVi plus" data-vid="qov9tFHHX6VU_93Ek5z_9w.." data-uid="23190884"><p class="cKL_tm"><a href="/show/qov9tFHHX6VU_93Ek5z_9w...html" title="双胞胎姐妹二人饰一角，两香香共舞盛世繁荣"><span class="v_det3"></span><span class="cm">07:35</span><img class="img" _src="http://vi0.ku6img.com/data1/p13/ku6video/2013/12/17/12/1392578201819_90547734_90547734/5.jpg" src="//css.ku6cdn.com/img/blank.png" alt="双胞胎姐妹二人饰一角，两香香共舞盛世繁荣"></a></p><span class="wtil"><a href="/show/qov9tFHHX6VU_93Ek5z_9w...html" title="双胞胎姐妹二人饰一角，两香香共舞盛世繁荣">双胞胎姐妹二人饰一角，两香香共舞盛世繁荣</a></span><span class="bk_name green" title="编辑点评：游戏！">编辑点评：游戏！</span></li><li class="bVi plus" data-vid="i_RjUAvtLFgKpysil-U69g.." data-uid="21299408"><p class="cKL_tm"><a href="/show/i_RjUAvtLFgKpysil-U69g...html" title="微电影《陌陌含情》 高清完整版"><span class="v_det3"></span><span class="cm">32:53</span><img class="img" _src="http://vi0.ku6img.com/data1/p12/ku6video/2013/12/16/9/1392472156345_90403813_90403813/2.jpg" src="//css.ku6cdn.com/img/blank.png" alt="微电影《陌陌含情》 高清完整版"></a></p><span class="wtil"><a href="/show/i_RjUAvtLFgKpysil-U69g...html" title="微电影《陌陌含情》 高清完整版">微电影《陌陌含情》 高清完整版</a></span><span class="bk_name green" title="陌陌主题热门视频">陌陌主题热门视频</span></li><li class="bVi plus" data-vid="37i3LrCO0VE5i92BltvNyw.." data-uid="18030518"><p class="cKL_tm"><a href="/show/37i3LrCO0VE5i92BltvNyw...html" title="实拍中国新型战机穿越峡谷超低空飞行"><span class="v_det3"></span><span class="cm">01:37</span><img class="img" _src="http://vi0.ku6img.com/data1/p7/ku6video/2013/12/19/20/1392782504317_90858192_90858192/2.jpg" src="//css.ku6cdn.com/img/blank.png" alt="实拍中国新型战机穿越峡谷超低空飞行"></a></p><span class="wtil"><a href="/show/37i3LrCO0VE5i92BltvNyw...html" title="实拍中国新型战机穿越峡谷超低空飞行">实拍中国新型战机穿越峡谷超低空飞行</a></span><span class="bk_name green" title="编辑点评：资讯！">编辑点评：资讯！</span></li>
+                    </ul>
+                </div>
+                 <div class="wcrm_con">
+                    <ul class="wc_list _st lazy" data-st="1_3_">
+                        <li class="bVi plus" data-vid="ekCg3m4_ZziChor1odNPEQ.." data-uid="18030518" data-recid="1"><p class="cKL_tm"><a href="/show/ekCg3m4_ZziChor1odNPEQ...html" title="实拍韩国军方开始发掘志愿军烈士遗骸"><span class="v_det3"></span><span class="cm">03:06</span><img class="img" _src="http://vi3.ku6img.com/data1/p8/ku6video/2013/12/20/18/1392859839998_90978978_90978978/7.jpg" src="//css.ku6cdn.com/img/blank.png" alt="实拍韩国军方开始发掘志愿军烈士遗骸"></a></p><span class="wtil"><a href="/show/ekCg3m4_ZziChor1odNPEQ...html" title="实拍韩国军方开始发掘志愿军烈士遗骸">实拍韩国军方开始发掘志愿军烈士遗骸</a></span><span class="bk_name green" title="编辑点评：资讯！">编辑点评：资讯！</span></li><li class="bVi plus" data-vid="3vM9X2K67iOBO2-sckrv_w.." data-uid="20087323"><p class="cKL_tm"><a href="/show/3vM9X2K67iOBO2-sckrv_w...html" title="塑料级傻缺坑爹集锦 第2期：典型坑爹反面教材"><span class="v_det3"></span><span class="cm">02:25</span><img class="img" _src="http://vi0.ku6img.com/data1/p13/ku6video/2013/12/18/22/1392700253919_90731176_90731176/6.jpg" src="//css.ku6cdn.com/img/blank.png" alt="塑料级傻缺坑爹集锦 第2期：典型坑爹反面教材"></a></p><span class="wtil"><a href="/show/3vM9X2K67iOBO2-sckrv_w...html" title="塑料级傻缺坑爹集锦 第2期：典型坑爹反面教材">塑料级傻缺坑爹集锦 第2期：典型坑爹反面...</a></span><span class="bk_name green" title="塑料级傻缺坑爹集锦 第2期：典型坑爹反面教材">塑料级傻缺坑爹集锦...</span></li><li class="bVi plus" data-vid="iNPtio8wi_Aim__OSjr-8g.." data-uid="18083168"><p class="cKL_tm"><a href="/show/iNPtio8wi_Aim__OSjr-8g...html" title="皮卡丘的彩色胡子"><span class="v_det3"></span><span class="cm">01:18</span><img class="img" _src="http://vi0.ku6img.com/data1/p7/ku6video/2013/10/10/11/1386678391051_81260409_81260409/2.jpg" src="//css.ku6cdn.com/img/blank.png" alt="皮卡丘的彩色胡子"></a></p><span class="wtil"><a href="/show/iNPtio8wi_Aim__OSjr-8g...html" title="皮卡丘的彩色胡子">皮卡丘的彩色胡子</a></span><span class="bk_name green" title="编辑点评：原创！">编辑点评：原创！</span></li><li class="bVi plus" data-vid="Ux16UWQeFBOlgB-IVhn24g.." data-uid="22904282"><p class="cKL_tm"><a href="/show/Ux16UWQeFBOlgB-IVhn24g...html" title="TOP·酷6  跟爸爸学吹口琴"><span class="v_det3"></span><span class="cm">00:21</span><img class="img" _src="http://vi1.ku6img.com/data1/p13/ku6video/2013/12/19/22/1392790992210_90871006_90871006/5.jpg" src="//css.ku6cdn.com/img/blank.png" alt="TOP·酷6  跟爸爸学吹口琴"></a></p><span class="wtil"><a href="/show/Ux16UWQeFBOlgB-IVhn24g...html" title="TOP·酷6  跟爸爸学吹口琴">TOP·酷6  跟爸爸学吹口琴</a></span><span class="bk_name green" title="宝宝跟爸爸学吹口琴   ">宝宝跟爸爸学吹口琴...</span></li>
+                    </ul>
+                </div>
+               
+            </div>
+            <div class="wcr_ad1" id="gg50574"></div>
+            <div class="qd_two"><span id="zz_adID2"></span><span id="zz_adID3"></span></div>
+            <div class="ck_latest">
+            <!--导航卡开始-->
+            	<div class="cKL_Navigation">
+	                <a href="#" title="" class="on">猜你喜欢</a>
+	                <a href="#" title="">上升最快</a>
+	            </div>
+	        	<!--导航卡结束-->
+	            <!--猜你喜欢开始-->
+	            <div class="wcr_main1" id="_like">
+	                <ul class="wc_list wc_list3 cfix _st lazy" data-st="1_4_">
+	                </ul>
+					<script>
+					(function(){document.getElementById('_like').style.visibility='hidden';}())
+                    </script>
+	            </div>
+	            <div class="wcr_main1" id="rend" style="display:none">
+	                <ul class="wc_list wc_list2 cfix _st lazy" data-st="1_6_">
+						<li class="bVi plus" data-vid="KIkXSxrscZDJokaf7mt5ww.." data-uid="22904282" data-recid="1"><p class="cKL_tm"><a href="/show/KIkXSxrscZDJokaf7mt5ww...html" title="爱拍秀 萌宠偷食"><span class="v_det"></span><span class="cm">03:38</span><img class="img" _src="http://vi1.ku6img.com/data1/p6/ku6video/2013/10/24/22/1387929279728_83092245_83092245/2.jpg" src="//css.ku6cdn.com/img/blank.png" alt="爱拍秀 萌宠偷食"></a></p><span class="wtil"><a href="/show/KIkXSxrscZDJokaf7mt5ww...html" title="爱拍秀 萌宠偷食">爱拍秀 萌宠偷食</a></span><span class="broadcast"></span><span class="bk_name green" title="今日播放超5万次">今日播放超5万次</span></li><li class="bVi plus" data-vid="AVh28SR01_xaEfCP8tvkjA.." data-uid="22904282"><p class="cKL_tm"><a href="/show/AVh28SR01_xaEfCP8tvkjA...html" title="现场连线 海波向高圆圆表白"><span class="v_det"></span><span class="cm">02:24</span><img class="img" _src="http://vi1.ku6img.com/data2/p1/ku6video/2013/10/31/23/1388537776186_84001838_84001838/1.jpg" src="//css.ku6cdn.com/img/blank.png" alt="现场连线 海波向高圆圆表白"></a></p><span class="wtil"><a href="/show/AVh28SR01_xaEfCP8tvkjA...html" title="现场连线 海波向高圆圆表白">现场连线 海波向高圆圆表白</a></span><span class="broadcast"></span><span class="bk_name green" title="编辑点评：搞笑！">编辑点评：搞笑！</span></li><li class="bVi plus" data-vid="A4cv2KVGVM4jKXOudLy2Cg.." data-uid="22904282"><p class="cKL_tm"><a href="/show/A4cv2KVGVM4jKXOudLy2Cg...html" title="Top 酷6神奇宝宝-食神 (6岁边吃边睡两不误)"><span class="v_det"></span><span class="cm">01:58</span><img class="img" _src="http://vi1.ku6img.com/data1/p8/ku6video/2013/11/7/22/1389139997586_84912023_84912023/3.jpg" src="//css.ku6cdn.com/img/blank.png" alt="Top 酷6神奇宝宝-食神 (6岁边吃边睡两不误)"></a></p><span class="wtil"><a href="/show/A4cv2KVGVM4jKXOudLy2Cg...html" title="Top 酷6神奇宝宝-食神 (6岁边吃边睡两不误)">Top 酷6神奇宝宝-食神 (6岁边吃边睡两不误)</a></span><span class="broadcast"></span><span class="bk_name green" title="编辑点评：搞笑！">编辑点评：搞笑！</span></li><li class="bVi plus" data-vid="6n9kXtEcisSsOxn_VeYhVA.." data-uid="22904282"><p class="cKL_tm"><a href="/show/6n9kXtEcisSsOxn_VeYhVA...html" title="TOP·酷6 山东滕州 钱金兰奶奶 58岁"><span class="v_det3"></span><span class="cm">00:53</span><img class="img" _src="http://vi0.ku6img.com/data1/p6/ku6video/2013/11/14/23/1389746922774_85876978_85876978/7.jpg" src="//css.ku6cdn.com/img/blank.png" alt="TOP·酷6 山东滕州 钱金兰奶奶 58岁"></a></p><span class="wtil"><a href="/show/6n9kXtEcisSsOxn_VeYhVA...html" title="TOP·酷6 山东滕州 钱金兰奶奶 58岁">TOP·酷6 山东滕州 钱金兰奶奶 58岁</a></span><span class="broadcast"></span><span class="bk_name green" title="编辑点评：搞笑！">编辑点评：搞笑！</span></li><li class="bVi plus" data-vid="Fjsp9FbqStBmV8yrvTS7zA.." data-uid="23061036"><p class="cKL_tm"><a href="/show/Fjsp9FbqStBmV8yrvTS7zA...html" title="让蕾丝点亮你的冬季  美女魅惑蕾丝秀"><span class="v_det3"></span><span class="cm">00:32</span><img class="img" _src="http://vi0.ku6img.com/data1/p12/ku6video/2013/12/17/19/1392605617183_90580772_90580772/8.jpg" src="//css.ku6cdn.com/img/blank.png" alt="让蕾丝点亮你的冬季  美女魅惑蕾丝秀"></a></p><span class="wtil"><a href="/show/Fjsp9FbqStBmV8yrvTS7zA...html" title="让蕾丝点亮你的冬季  美女魅惑蕾丝秀">让蕾丝点亮你的冬季  美女魅惑蕾丝秀</a></span><span class="broadcast"></span><span class="bk_name green" title="编辑点评：美女魅惑蕾丝秀！">编辑点评：美女魅惑蕾丝秀！</span></li><li class="bVi plus" data-vid="RLMjXXqcd2ioWZ4ymgLq5g.." data-uid="20997906"><p class="cKL_tm"><a href="/show/RLMjXXqcd2ioWZ4ymgLq5g...html" title="王诗龄生活照似时装秀 小妞爱扮小公主"><span class="v_det3"></span><span class="cm">01:05</span><img class="img" _src="http://vi1.ku6img.com/data1/p11/ku6video/2013/12/20/0/1392794966989_90876430_90876430/6.jpg" src="//css.ku6cdn.com/img/blank.png" alt="王诗龄生活照似时装秀 小妞爱扮小公主"></a></p><span class="wtil"><a href="/show/RLMjXXqcd2ioWZ4ymgLq5g...html" title="王诗龄生活照似时装秀 小妞爱扮小公主">王诗龄生活照似时装秀 小妞爱扮小公主</a></span><span class="broadcast"></span><span class="bk_name green" title="编辑点评：娱乐！">编辑点评：娱乐！</span></li>
+	                </ul>
+	            </div>
+
+	        </div>
+            <div class="wcr_ad1" id="gg50575"></div>
+            <div class="wcr_ad1" id="gg50576"></div>
+        </div>
+	    <div class="bdfrag" id="gg50577"></div>
+        <div id="bd91735" class="bdfrag"></div>
+    </div>
+</div></div>
+<div class="b_Foot">
+     <p class="linkMain"><a href="//www.ku6.com/about/info/" rel="nofollow" target="_blank">公司介绍</a> | <a href="//www.ku6.com/about/ku6/" rel="nofollow" target="_blank">About Ku6</a> | <a href="//www.ku6.com/about/rczp/" rel="nofollow" target="_blank">人才招聘</a> | <a href="//www.ku6.com/about/bqsm/" rel="nofollow" target="_blank">版权声明</a> | <a href="//www.ku6.com/about/lxwm/" rel="nofollow" target="_blank">联系我们</a> | <a href="http://www.ku6.com/about/ad/" target="_blank">广告合作</a> | <a href="//www.ku6.com/about/link/" target="_blank">友情链接</a> | <a href="//fb.ku6.com/page/submitfb.html" rel="nofollow" target="_blank">意见反馈</a> | <a href="//ku6video.open.snda.com/" rel="nofollow" target="_blank">开放平台</a> | <a target="_blank" href="//promote.ku6.com/">推广视频</a></p>
+     <p class="copyRight">版权所有 CopyRight 2006-2013 <a target="_blank" href="//www.ku6.com/">酷6网</a> | <a target="_blank" href="//www.miibeian.gov.cn/" class="noborder">京ICP证060931号</a> | <a target="_blank" href="//www.ku6.com/licence/" class="noborder">网络视听许可证：0108267号</a> | 京公网安备：110105006306</p>
+</div>
+
+  <div class="ckl_updown">
+      <a href="#" class="ckl_up"></a>
+
+      
+<a href="http://www.ku6.com/client_mobile/index.shtml" class="ckl_dimensional" target="_blank" title="酷6客户端">
+  <img width="72" height="72" src="http://vi3.ku6img.com/data2/p5/cms/2013/9/25/pic_1380091883370.jpg" alt="二维码" />
+  <span class="ckl_wewi">酷6客户端</span></a>
+
+<a onmousedown="ckLog('youni_qrcode')" href="http://y.sdo.com/?ch=1713&qp_index=gg_10" class="ckl_dimensional" target="_blank" title="有你客户端">
+  <img width="72" height="72" src="http://vi2.ku6img.com/data1/p8/cms/2013/10/18/pic_1382083340753.jpg" alt="二维码" />
+  <span class="ckl_ios">有你客户端</span></a>
+
+    </div>
+
+<script type="text/html" id="report_tpl">
+     <h2>举报该视频</h2>
+     <table cellspacing="0" cellpadding="0">
+           <thead>
+				<tr><td colspan="2">如果<b>视频内容与标题不符</b>，欢迎向酷6管理员举报：</td></tr>
+				<tr><td colspan="2"><strong>举报原因：</strong></td></tr>
+           </thead>
+           <tbody>
+				<tr><td width="30"><input type="radio" name="type" id="rpt0" value="4"></td><td><label for="rpt0">视频内容与标题不符</label></td></tr>
+				<tr><td width="30"><input type="radio" name="type" id="rpt0" value="0"></td><td><label for="rpt0">时政违规</label></td></tr>
+				<tr><td width="30"><input type="radio" name="type" id="rpt1" value="1"></td><td><label for="rpt1">低俗、色情、血腥、暴力</label></td></tr>
+				<tr><td width="30"><input type="radio" name="type" id="rpt2" value="2"></td><td><label for="rpt2">违规广告</label></td></tr>
+				<tr><td width="30"><input type="radio" name="type" id="rpt3" value="3"></td><td><label for="rpt3">其他违规</label></td></tr>
+           </tbody>
+           <tfoot>
+                <tr><td colspan="2">&nbsp;</td></tr>
+                <tr><td colspan="2"><p>若您还有其他的意见或建议，请</p><a class="one" href="mailto:weigui@ku6.com">联系管理员</a></td></tr>
+                <tr><td height="" colspan="2">&nbsp;</td></tr>
+                <tr><td></td><td>
+                <ul class="toolBox tt_box cfix">
+                    <li><a href="#" class="report_ok">提交<em></em></a></li>  
+                    <li><a href="#">取消<em></em></a></li>
+                </ul>
+   				</td></tr>
+           </tfoot>
+     </table>
+</script>
+<script type="text/html" id="tpl_rec">
+<#for(var i=0, item;item = list[i++];){#>
+<#if(item.topic){#>
+  <li class="bVi ckl_code"><p class="cKL_tm"><a target="_topic" title="<#=item.topic.tname#>" href="//topic.ku6.com/show-<#=item.topic.tid#>-<#=item.topic.topic_vid#>.html?st=<#=item.st#>_<#=item.i#>_<#=item.recid#>" ><span class="ckl_zzt"></span><img alt="<#=item.topic.tname#>" src="<#=item.topic.imgurl#>" class="img"/><span class="ckl_tanabata"></span></a></p>
+  <span class="ckl_ppl"><span class="wtil"><a target="_topic" title="<#=item.topic.tname#>" href="//topic.ku6.com/show-<#=item.topic.tid#>-<#=item.topic.topic_vid#>.html?st=<#=item.st#>_<#=item.i#>_<#=item.recid#>"><#=item.topic.tip#><span class="ckl_coolor"><#=item.topic.tname#></span></a></span>
+  <span class="bk_name green"  title="<#=item.topic.reason#>"><#=item.topic.reason#></span></span></li>
+<#} else {#>
+    <#if(item.link){#>
+      <#if(item.vid){#>
+       <li class="bVi plus" data-vid="<#=item.vid#>"><p class="cKL_tm"><a href="<#=item.link#>?st=<#=item.st#>_<#=item.i#>_<#=item.recid#>" title="<#=item.title1#>"><span class="cm"><#=item.time#></span><img class="img" src="<#=item.picpath#>" alt="<#=item.title1#>"><span class="ckl_tanabata"></span></a></p><span class="wtil"><a href="<#=item.link#>?st=<#=item.st#>_<#=item.i#>_<#=item.recid#>" title="<#=item.title1#>"><#=item.title#></a></span>
+          <span class="bk_name green<#=item.hasTag#>" title="<#=item.reason1#><#=item.tag#>"><#=item.reason#><#=item.tag#></span></li>
+      <#} else {#>
+          <li class="bVi bd" data-vid="<#=item.vid#>"><p class="cKL_tm"><a title="<#=item.title1#>" target="_blank" href="<#=item.link#>">
+      <img class="img" src="<#=item.picpath#>"></a><span class="ckl_tanabata"></span></p><span class="wtil">
+      <a href="<#=item.link#>" target="_blank"  title="<#=item.title1#>"><#=item.title#></a></span>
+      <span class="bk_name green"><#=item.reason#></span></li>
+        <#}#>
+    <#} else {#>
+      <li class="bVi plus" data-vid="<#=item.vid#>"><p class="cKL_tm"><a href="/show/<#=item.vid#>.html?st=<#=item.st#>_<#=item.i#>_<#=item.recid#>" title="<#=item.title1#>"><span class="cm"><#=item.time#></span><img class="img" src="<#=item.picpath#>" alt="<#=item.title1#>"><span class="ckl_tanabata"></span></a></p><span class="wtil"><a href="/show/<#=item.vid#>.html?st=<#=item.st#>_<#=item.i#>_<#=item.recid#>" title="<#=item.title1#>"><#=item.title#></a></span>
+      <span class="bk_name green<#=item.hasTag#>" title="<#=item.reason1#><#=item.tag#>"><#=item.reason#><#=item.tag#></span></li>
+    <#}#>
+
+
+    <#}#>
+<#}#>
+</script>
+
+
+
+<script type="text/html" id="tpl_more">
+<#for(var i=0, item;item = list[i++];){
+  if(item.link){#>
+    <li class="bVi plus"><p class="cKL_tm"><a title="<#=item.title#>"  target="_blank" href="<#=item.link#>" ><img alt="<#=item.title#>" _src="<#=item.picpath#>" class="img" src="//css.ku6cdn.com/img/blank.png"><span class="ckl_tanabata"></span></a></p><span class="wtil"><a  target="_blank" title="<#=item.title#>" href="<#=item.link#>"><#=item.title#></a></span><br/><span class="bk_name green<#=item.hasTag#>"  title="<#=item.reason1#><#=item.tag#>"><#=item.reason#><#=item.tag#></span>
+</li>
+<#} else {#>
+<li class="bVi plus" data-uid="<#=item.userid#>" data-vid="<#=item.vid#>"><p class="cKL_tm"><a title="<#=item.title#>" href="/show/<#=item.vid#>.html?st=<#=item.st#>_<#=item.i#>_<#=item.recid#>" ><span class="cm"><#=item.time#></span><img alt="<#=item.title#>" _src="<#=item.picpath#>" class="img" src="//css.ku6cdn.com/img/blank.png"><span class="ckl_tanabata"></span></a></p><span class="wtil"><a title="<#=item.title#>" href="/show/<#=item.vid#>.html?st=<#=item.st#>_<#=item.i#>_<#=item.recid#>"><#=item.title#></a></span>
+<span class="broadcast"></span><br/><span class="bk_name green<#=item.hasTag#>"  title="<#=item.reason1#><#=item.tag#>"><#=item.reason#><#=item.tag#></span>
+</li>
+<#}#>
+
+<#}#>
+</script>
+<script>require.ensure('//js.ku6cdn.com/comm/v/fp/5.2.9/main');</script>
+<script src="http://js.ku6cdn.com/comm/v/fp/install_beacon.js"></script>
+
+
+<script>
+function ckLog(t) {try{sdoLogger.authId = '25f2188740b84763';sdoLogger.clickLog('type='+t);}catch(e){}}
+</script>
+
+
+
+
+
+  
+  <script>snyu_ads_slot_id=201760</script>
+  
+
+</body>
+</html>

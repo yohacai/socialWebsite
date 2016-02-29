@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteRule nt$  ntc.php  [NC]
+RewriteRule pubs$  pubShare.php  [NC]
+RewriteRule share$  index.php  [NC]
+RewriteRule ava$  avatar.php  [NC]
+RewriteRule share(\d*)&(\d*)$ shareInfo.php?id=$1&page=$2 [NC]
+RewriteRule inf&?(\d*)$  info.php?uid=$1  [NC]
+RewriteRule (ntre|ntsys|ntpriv|nrfri)&(\d*)$  ntc.php?re=$1&p=$2  [NC]
+RewriteRule (game|music|video|pic|other|mood)$  index.php?ctg=$1  [NC]

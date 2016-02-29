@@ -1,0 +1,209 @@
+#contMain
+{
+width:960px;
+margin-left:18px;
+position:relative;
+padding-bottom:10px;
+clear:both;
+height:auto;
+margin-bottom:20px;
+overflow:auto;
+background:#7f111111;
+background:rgba(22,22,22,0.5);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7f111111,endColorstr=#7f111111);
+}
+#contBody
+{
+padding:0px;
+position:relative;
+float:right;
+margin-right:20px;
+margin-top:20px;
+padding-left:20px;
+width:710px;
+overflow:auto;
+border-left:1px dashed #dddddd;
+border-bottom:1px dashed #dddddd;
+min-height:500px;
+}
+#noticeLeft
+{
+float:left;
+height:100%;
+position:relative;
+margin-top:20px;
+margin-left:10px;
+width:190px;
+color:#dddddd;
+}
+.noticeNav
+{
+text-align:center;
+width:100%;
+color:#dddddd;
+font-size:15px;
+height:30px;
+line-height:30px;
+cursor:pointer;
+}
+.noticeInfo
+{
+width:100%;
+border-bottom:1px dashed #dddddd;
+padding-bottom:10px;
+display:inline-block;
+margin-bottom:10px;
+}
+.noticeInfoBack
+{
+width:100%;
+border-bottom:1px dashed #888888;
+padding-bottom:10px;
+display:inline-block;
+margin-bottom:10px;
+background:#68336699;
+background:rgba(51,102,153,0.4);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#68336699,endColorstr=#68336699);
+}
+.noticeImg
+{
+   float:left;
+   width:70px;
+}
+.noticeImg img
+{
+  width:70px;
+}
+.noticeMain
+{
+float:left;
+margin-left:20px;
+color:#eeeeee;
+font-size:15px;
+}
+.noticeContent
+{
+color:#dddddd;
+font-size:17px;
+font-weight:bold;
+word-break:break-all;
+max-width:600px;
+}
+a.ntUser:link,a.ntUser:active,a.ntUser:hover,a.ntUser:visited
+{
+color:#339999;
+text-decoration:none;
+}
+.noticeTocont
+{
+color:#aaaaaa;
+}
+.reNoticeBu
+{
+  position:absolute;
+  left:680px;
+  color:#dddddd;
+  font-size:14px;
+  font-weight:bold;
+  cursor:pointer;
+  display:none;
+}
+#noticePages
+{
+width:710px;
+height:30px;
+float:right;
+margin-right:20px;
+margin-top:10px;
+}
+.ntPrePage
+{
+   float:left;
+   height:30px;
+   width:60px;
+   text-align:center;
+   line-height:30px;
+   color:white;
+   cursor:pointer;
+}
+.ntNextPage
+{
+   float:left;
+   height:30px;
+   width:60px;
+   text-align:center;
+   line-height:30px;
+   color:white;
+   cursor:pointer;
+}
+.ntPageNum
+{
+   float:left;
+   height:30px;
+   width:60px;
+   text-align:center;
+   line-height:30px;
+   color:white;
+}
+.noticeBody
+{
+  width:100%;
+  display:inline-block;
+}
+.ntReInput
+{
+  margin-left:140px;
+  width:400px;
+  height:60px;
+  resize:none;
+  -webkit-border-radius: 10px;
+  overflow:auto;
+  background:none;
+  border:1px dashed white;
+  color:#eeeeee;
+  padding:8px 8px 8px 8px;
+  font-size:15px;
+  float:left;
+}
+.ntReBu
+{
+  width:50px;
+  height:30px;
+  border:none;
+  background:#214263;
+  color:white;
+  line-height:30px;
+  margin-left:20px;
+  margin-top:23px;
+  cursor:pointer;
+  float:left;
+  -webkit-border-radius: 10px;
+  background:rgba(33,66,99,0.5);
+}
+.noticeReply
+{
+  display:none;
+}
+a.ntPrePage:link,a.ntPrePage:hover,a.ntPrePage:visited,a.ntPrePage:active
+{
+text-decoration:none;
+}
+a.ntNextPage:link,a.ntNextPage:hover,a.ntNextPage:visited,a.ntNextPage:active
+{
+text-decoration:none;
+}
+img
+{
+border:none;
+}
+
+a.noticeA:link,a.noticeA:visited,a.noticeA:active,a.noticeA:hover
+{
+text-decoration:none;
+color:#aaaaaa;
+}
+.noticeTime
+{
+ font-size:13px;
+ color:#999999;
+}

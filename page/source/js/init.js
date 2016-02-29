@@ -1,0 +1,10 @@
+document.write("<script language='javascript' src='source/js/public.js'></script>"); 
+document.write("<script language='javascript' src='source/js/divScroll.js'></script>"); 
+//document.write("<script language='javascript' src='source/js/jquery.js'></script>"); 
+document.write("<script language='javascript' src='source/js/getAnswer.js'></script>"); 
+document.write("<script language='javascript' src='source/js/reply.js'></script>"); 
+document.write("<script language='javascript' src='source/js/collect.js'></script>"); 
+document.write("<script language='javascript' src='source/js/getNotice.js'></script>"); 
+document.write("<script language='javascript' src='source/js/musicPlayer.js'></script>");
+document.write("<script language='javascript' src='source/js/windowScroll.js'></script>"); 
+document.write("<script language='javascript' src='source/js/urldecode.js'></script>"); 

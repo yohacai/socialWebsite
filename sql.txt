@@ -1,0 +1,74 @@
+create table user                    #用户信息表
+(
+id bigint primary key    not null auto_increment,
+email	varchar	(128)	unique not null,	             #邮箱
+avatar		varchar	(128) 	default     'default.gif',	   #头像
+name varchar(20) not null,
+pwd		varchar	(128)	not null,		    #密码(md5加密) 
+sex varchar(4) not null default '未知' ,         #0男,1女
+address varchar(56) ,
+job varchar(30),
+age int,
+want   varchar(60),   #想要，想做
+school   varchar(40),  #大学
+love   varchar(40),   #爱好
+emotion varchar(30),
+birth varchar(30),#出生日期
+registerDate	timestamp not null default current_timestamp 	,			#注册时间
+loginDate	datetime 	,			#最后登录时间	
+active		tinyint		default 1       #1表示激活,2表示不激活
+);
+
+create table hoster             #hoster表
+(
+userId  bigint   not null,
+date    datetime not null,
+isAct   tinyint  not null default 0    #0未激活,1等待,2已激活
+);
+
+create table cont_id           #分享内容Id映射表
+(
+cont_id bigint not null primary key auto_increment, 
+category  tinyint not null   ,
+sender  bigint not null   
+);
+
+create table cont_info       #分享详细内容
+(
+id bigint not null primary key ,
+category  tinyint not null   ,     #分类
+cont_name varchar(128) not null,    
+cont_reason varchar(256),
+cont_main  varchar(512) not null,
+time timestamp not null default current_timestamp
+)
+
+create table collect
+(
+ id bigint not null primary key auto_increment,
+ cont_id bigint not null,
+ user_id bigint not null,
+ time timestamp not null default current_timestamp
+)
+
+create table cont_answer         #评论表
+(
+id bigint not null primary key auto_increment,
+cont_id bigint not null,
+sender bigint not null,
+name varchar(20) not null,
+cont_info varchar(512) not null,
+time timestamp not null default current_timestamp
+)
+create table notice
+(
+    id bigint not null primary key auto_increment,
+    sender bigint not null,
+    getter bigint not null,
+    name varchar(20) not null,
+    cont varchar(512) not null,
+    toCont varchar(40) not null,
+    cont_id bigint not null,
+    isRead tinyint not null default 0,   #0未读,1已读
+    time timestamp not null default current_timestamp
+)

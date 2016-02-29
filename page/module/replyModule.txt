@@ -1,0 +1,13 @@
+<div class='replyPerson'>
+<div class='reImg'><a href='#'><img src='http://yoha.me/wddp/page/source/img/hoster.jpg'></a></div>
+<div class='reCont'>
+<div class='reText'><a href='#'>yoha</a>：<p></p>
+<span class='reTime'>(2013-11-26 17:03:20)</span></div>
+<div class='reFoot'>
+<span class='reToRe'><a href='#reSkip".$content->id."'>回复</a></span>
+</div>
+</div>
+</div>
+							 <div class='nullRe'>
+							 暂时还没有回复,赶紧抢占沙发吧骚年~
+							 </div>

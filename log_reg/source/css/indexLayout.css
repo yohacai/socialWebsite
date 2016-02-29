@@ -1,0 +1,119 @@
+a:link
+{
+    text-decoration:none;
+}
+.logo
+{
+float:left;
+}
+.welcome
+{
+width:500px;
+float:left;
+color:white;
+height:200px;
+line-height:200px;
+font-size:40px;
+margin-left:150px;
+}
+
+.login
+{
+float:left;
+color:white;
+width:150px;
+height:38px;
+margin-left:100px;
+border-top:1px solid #339966;
+border-left:1px solid #339966;
+border-bottom:1px solid #339966;
+}
+.reg
+{
+float:left;
+color:white;
+width:149px;
+height:38px;
+border-top:1px solid #339966;
+border-right:1px solid #339966;
+border-bottom:1px solid #339966;
+}
+.lForm
+{
+width:500px;
+margin:0;
+float:left;
+height:270px;
+color:white;
+}
+.rForm
+{
+width:500px;
+margin:0;
+float:left;
+height:270px;
+color:white;
+}
+
+.formBody
+{
+margin-top:30px;
+}
+.input
+{
+float:left;
+border:1px solid orange;
+width:200px;
+height:30px;
+font-size:18px;
+line-height:30px;
+color:gray;
+}
+.iText
+{
+float:left;
+height:30px;
+line-height:30px;
+color:white;
+font-size:20px;
+width:60px;
+}
+.fLine
+{
+width:300px;
+height:30px;
+padding:0;
+margin:30px auto;
+}
+#login
+{
+margin:10px 0 0 170px;
+width:150px;
+height:40px;
+background:#339966;
+border:none;
+cursor:pointer;
+color:white;
+font-size:20px;
+}
+#reg
+{
+margin:10px 0 0 170px;
+width:150px;
+height:40px;
+background:#339966;
+border:none;
+cursor:pointer;
+color:white;
+font-size:20px;
+}
+
+.tBack
+{
+background:#999933;
+width:150px;
+height:40px;
+position:absolute;
+left:100px;
+z-index:-1;
+}
